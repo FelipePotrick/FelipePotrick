@@ -1,36 +1,36 @@
-# 👋 Fala aí! Eu sou um futuro dev!
+# 👋 E aí, me chamo Felipe Potrick!
 
-Sou um estudante que tá entrando no mundo da programação e, por enquanto, tô focado no básico do front-end — aquele trio de respeito: **HTML, CSS e JavaScript**.  
-Tô curtindo bastante aprender e quebrar a cabeça (faz parte, né? 😅). A meta é virar um programador brabo e construir projetos irados no futuro.
+Sou um estudante começando minha jornada rumo a me tornar um **desenvolvedor front-end**.  
+Tô mergulhado nas bases de **HTML**, **CSS** e **JavaScript**, quebrando a cabeça e me divertindo com cada novo aprendizado 🚀
 
-## 📚 No momento estou estudando:
-
-- 📄 HTML
-- 🎨 CSS
-- 💡 JavaScript
-
-## 🛠️ Em breve quero aprender:
-
-- ⚛️ React
-- 🔧 Git e GitHub
-- 🌐 APIs e coisas web modernas
-
-## 💬 Sobre mim rapidão:
-
-- Gosto de aprender no meu ritmo, testando as coisas e fuçando código
-- Tento sempre deixar meu código mais bonitinho e organizado (às vezes dá certo!)
-- Aceito dicas, feedbacks, memes e café ☕️
-
-## 📈 GitHub Stats + um gatinho rolando 😸
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" />
-  <img src="https://media.tenor.com/QOu7BsEBzC8AAAAi/cat-roll.gif" width="100" alt="gatinho rolando" />
-</div>
+Ainda tô no começo, mas com muita vontade de evoluir e construir coisas legais!
 
 ---
 
-✨ Valeu por passar aqui! Se quiser trocar ideia ou acompanhar meu progresso, fica à vontade pra seguir ou mandar um "oi" 😄
+## 🧠 O que tô aprendendo agora:
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+## 👨‍💻 Sobre mim:
+
+- 💡 Curioso por natureza e sempre tentando entender como as coisas funcionam
+- 🎯 Focado em aprender o essencial antes de ir pro avançado
+- 💬 Tô sempre aberto pra trocar ideia, tirar dúvidas ou só jogar conversa fora
+
+---
+
+
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipePotrick&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePotrick&layout=compact&theme=radical" />
+  <img src="https://media.tenor.com/QOu7BsEBzC8AAAAi/cat-roll.gif" width="120" alt="cat rolling gif" />
+</div>
 
 
